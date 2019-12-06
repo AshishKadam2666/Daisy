@@ -1,4 +1,4 @@
-#include<stdio.t>
+#include<stdio.h>
 void main()
 {
  int i=1,fact=1,n;
