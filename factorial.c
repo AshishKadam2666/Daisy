@@ -2,7 +2,7 @@
 void main()
 {
  int i=1,fact=1,n;
- print("Enter number:\n");
+ printf("Enter number:\n");
  scanf("%d",&n);
  while(i<=n)
  {
