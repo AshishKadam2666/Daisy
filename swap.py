@@ -1,6 +1,6 @@
 # Taking user inputs:
-x = input('Enter value of x: ')
-y = input('Enter value of y: ')
+x = 20
+y = 10
 
 # creating a temporary variable to swap the values
 temp = x
